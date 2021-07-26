@@ -1,4 +1,3 @@
-# HackerRank-Solutions
-# 30 Days of code
+# HackerRank Java and python Solutions 
 
 
